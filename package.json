@@ -1,5 +1,5 @@
 {
-  "name": "zulipbot",
+  "name": "priyansh-spare",
   "version": "1.0.0",
   "description": "GitHub workflow-optimizing bot",
   "engines": {
@@ -35,6 +35,7 @@
     "github",
     "workflow",
     "zulipbot",
+    "priyansh-spare",
     "synicalsyntax"
   ],
   "author": "Cynthia Lin <cynthialin1004@gmail.com> (https://synicalsyntax.com)",
